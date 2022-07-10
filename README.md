@@ -8,7 +8,8 @@
    
     #Ansible instalation:
     https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-20-04
-   
+    
+   #Create a Ecr Repository and git Repository
    
    #Creating Jenkins pipeline for CI/CD
    
