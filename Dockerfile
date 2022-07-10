@@ -1,6 +1,6 @@
 FROM node:alpine
 
-WORKDIR /App
+WORKDIR /app
 
 COPY ["package.json", "package-lock.json*", "./"]
 
